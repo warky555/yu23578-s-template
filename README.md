@@ -5,3 +5,4 @@
 ・多倍長整数  
 ・エラトステネスの篩  
 ・modnCr  
+・UnionFind
